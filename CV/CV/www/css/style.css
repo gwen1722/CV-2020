@@ -1,0 +1,151 @@
+body {
+	background-color: #333333;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: 'Lato', sans-serif;
+	color: #ffffff ;
+	font-size : 15pt;
+	font-weight: 300;
+}
+header{
+	display :flex;
+}
+
+.casquette{
+	display :block;
+}
+
+.photo{
+	border-color: white ;
+	border: 10px solid white;
+	border-bottom: 50px solid white;
+	margin-bottom: 20px;
+	justify-content: center;
+	position:relative;
+}
+
+.gwendal{
+	display: block;
+	margin-left: 10%;
+}
+
+h1{
+	font-family: 'Amatic SC';
+	color : white;
+	font-size : 80pt;
+	font-weight: 400;
+	margin : 0px;
+}
+.name{
+	color:#e28633;
+}
+.intro {
+	font-family: 'Lato';
+	color: #ffffff ;
+	font-size : 20pt ;
+	font-weight: 300;
+}
+
+main{
+	display:flex;
+}
+
+.colonne1{
+	width:350px;
+	margin-right: 50px;
+}
+
+.contact {
+	font-size : 15pt;
+	font-weight: 300;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top:5px;
+}
+.adresse {
+	margin-bottom: 5px;
+}
+
+hr{
+	text-align: center;
+	border-color: white;
+	background-color: white;
+	width: 80pt;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
+img{
+	width:300px;
+	position : absolute;	
+}
+
+.block1{
+	margin-bottom: 100px;
+}
+
+.block1 img{
+	width:100%;
+}
+
+.titre1{
+	position:relative;
+	margin-bottom: 50px;
+}
+
+.titre11{
+	position: relative;
+	font-family: 'Amatic SC';
+	color : white;
+	font-size : 30pt;
+	font-weight: 400;
+	margin : 0px;
+	text-align: center;
+}
+
+.text1{
+	text-align: center;
+}
+
+.colonne2{
+	width:70%;
+}
+
+.titre2{
+	position:relative;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.titre21{
+	position: relative;
+	font-family: 'Amatic SC';
+	color : white;
+	font-size : 40pt;
+	font-weight: 400;
+	margin : 0px;
+	text-align: center;
+	width : 300px;
+}
+
+.date{
+	font-weight: 900;
+	color:#e28633;
+}
+
+.lieux{
+	font-family: 'lato', ital;
+}
+
+.pictos{
+	position: relative;
+    width: 110px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.hardskill{
+	
+	display : flex;
+}
